@@ -1,4 +1,5 @@
 def upper_text(random_string):
+    """comment"""
     return random_string.upper()
 
 
